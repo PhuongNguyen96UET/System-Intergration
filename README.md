@@ -38,8 +38,8 @@ Hệ thống thông tin du lịch bao gồm các dịch vụ (Open sources):
 
 7.
 
-8
-.
+8.
+
 9.
 
 
