@@ -8,6 +8,7 @@ Thành viên nhóm:
 - Đinh Huy Tuân
 - Đinh Văn Dũng
 - Nguyễn Đức Anh
+
 Bài tập lớn:
 Yêu cầu:
 Sử dụng mô hình RESTfull Web Service
@@ -24,14 +25,23 @@ Hệ thống thông tin du lịch bao gồm các dịch vụ (Open sources):
 
 9 dịch vụ tích hợp là:
 1. 
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
+
 7.
-8.
+
+8
+.
 9.
+
 
 Thời gian bắt đầu: 26/02/2018
 Thời gian hoàn thành: 29/04/2018
