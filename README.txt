@@ -1,5 +1,5 @@
 # System-Intergration
-nhom2
+nhóm 2: 
 
 Thư mục lưu bài tập môn Tích hợp hệ thống Giảng viên: Nguyễn Ngọc Hóa Lớp: INT3211 - 2018
 
@@ -19,32 +19,29 @@ Mỗi nhóm trình bày kết quả trước Giảng viên và toàn thể lớp
 
 GIỚI THIỆU
 - Hệ thống thông tin du lịch bao gồm các dịch vụ (Open sources):
-1. Hệ thống giới thiệu và đăng ký các gói du lịch cho khách hàng từ các nhà cung cấp dịch vụ khác nhau.
+1. Hệ thống đặt vé máy bay.
 2. Hệ thống đặt phòng khách sạn tại các địa điểm du lịch.
-3. Hệ thống thanh toán các chi phí trong chuyến đi/ Hệ thống quản lý khách hàng.
+3. Hệ thống tìm dịch vụ Uber gần nhất.
 
 
-9 dịch vụ tích hợp là:
+9 chức năng tích hợp là:
+Dịch vụ đặt vé máy bay
 
-1. 
+1. Chức năng tìm kiếm chuyến bay
+2. Chức năng xem chi tiết chuyến bay
+3. Đặt vé
 
-2.
+Dịch vụ đặt phòng khách sạn
+4. Tìm kiếm Khách sạn
+5. Xem chi tiết phòng
+6. Chức năng đặt phòng khách sạn/ Hủy đặt phòng khách sạn
 
-3.
+Dịch vụ tìm kiếm Uber.
+7. Chức năng lấy danh sách dịch vụ Uber
+8. Chức năng chọn địa điểm, thông tin đặt xe
+9. Đặt / Hủy chuyến
 
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-
+Framework: Spring Framework
 Thời gian bắt đầu: 26/02/2018
 Thời gian hoàn thành: 29/04/2018
 
